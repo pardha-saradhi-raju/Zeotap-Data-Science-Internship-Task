@@ -19,14 +19,17 @@ This project involves analyzing eCommerce transactions to derive actionable insi
 1. EDA Notebook:
    
 Doradla_PardhaSaradhiRaju_EDA.ipynb – Contains code for exploratory data analysis and insights generation.
+
 Doradla_PardhaSaradhiRaju_EDA.pdf – Contains the business insights report.
 
 2. Lookalike Model:
    
 Doradla_PardhaSaradhiRaju_Lookalike.ipynb – Includes the implementation of the Lookalike Model.
+
 Doradla_PardhaSaradhiRaju_Lookalike.csv – Contains the top 3 similar customers for the first 20 customers.
 
 3. Clustering Analysis:
    
 Doradla_PardhaSaradhiRaju_Clustering.ipynb – Contains the clustering analysis and results.
+
 Doradla_PardhaSaradhiRaju_Clustering.csv – Contains the cluster assignments for each customer.
